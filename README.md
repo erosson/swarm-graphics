@@ -3,7 +3,7 @@ edit css: https://github.com/erosson/swarm-graphics/tree/gh-pages
 
 view css: https://erosson.github.io/swarm-graphics/graphics.css
 
-[use css (after v1.0.31)](https://swarmsim.github.io/#/cleartheme?theme=slate&themeExtra=@import url('https://erosson.github.io/swarm-graphics/graphics.css');)
+after v1.0.31, [use css](https://swarmsim.github.io/#/cleartheme?theme=slate&themeExtra=@import url('https://erosson.github.io/swarm-graphics/graphics.css');), or options > theme > `Additional styling (advanced)` > paste `@import url('https://erosson.github.io/swarm-graphics/graphics.css');`
 
 git will host your css files for free. steps:
 * create github account
