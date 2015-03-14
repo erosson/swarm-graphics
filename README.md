@@ -3,7 +3,7 @@ edit css: https://github.com/erosson/swarm-graphics/tree/gh-pages
 
 view css: https://erosson.github.io/swarm-graphics/graphics.css
 
-after v1.0.31, to use custom styling:
+after v1.0.37, to use custom styling:
 * [with one click](https://swarmsim.github.io/#/cleartheme?theme=slate&themeExtra=@import url('https://test.swarmsim.com/swarm-graphics/graphics.css');)
 * or options > theme > `Additional styling (advanced)` > paste `@import url('https://erosson.github.io/swarm-graphics/graphics.css');`
 
