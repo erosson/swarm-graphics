@@ -1,0 +1,37 @@
+.desc-icon-resource {
+  background-size:40px 40px;
+  background-repeat:no-repeat;
+  height:40px;width:40px;
+  float:left;
+  margin-right:0.5em;
+}
+.tab-icon-resource {
+  /* large icons: */
+  background-size:40px 40px;
+  height:40px;width:40px;
+  margin-left:-10px;margin-top:-10px;
+  /* small icons: */
+/*
+  background-size:20px 20px;
+  height:20px;width:20px;
+*/
+  /* either: */
+  background-repeat:no-repeat;
+  float:left;
+  margin-right:0.5em;
+}
+.icon-meat {
+  background-image: url("http://placekitten.com/40/40?image=1");
+}
+.icon-larva {
+  background-image: url("http://placekitten.com/40/40?image=7");
+}
+.icon-territory {
+  background-image: url("http://placekitten.com/40/40?image=9");
+}
+.icon-energy {
+  background-image: url("http://placekitten.com/40/40?image=15");
+}
+.icon-mutagen {
+  background-image: url("http://placekitten.com/40/40?image=12");
+}
