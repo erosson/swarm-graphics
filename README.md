@@ -4,7 +4,7 @@ edit css: https://github.com/erosson/swarm-graphics/tree/gh-pages
 view css: https://erosson.github.io/swarm-graphics/graphics.css
 
 after v1.0.37, to use custom styling:
-* [with one click](https://swarmsim.github.io/#/cleartheme?themeExtra=@import url%28'https://test.swarmsim.com/swarm-graphics/graphics.css'%29;)
+* with one click: [non-Kongregate](https://swarmsim.github.io/#/cleartheme?themeExtra=@import url%28'https://test.swarmsim.com/swarm-graphics/graphics.css'%29;) , [Kongregate](https://www.swarmsim.com?kongregate=1/#/cleartheme?themeExtra=@import url%28'https://test.swarmsim.com/swarm-graphics/graphics.css'%29;)
 * or options > theme > `Additional styling (advanced)` > paste `@import url('https://test.swarmsim.com/swarm-graphics/graphics.css');`
 
 git will host your css files for free. steps:
