@@ -7,7 +7,7 @@ view css: https://erosson.github.io/swarm-graphics/graphics.css
 
 after v1.0.37, to use custom styling:
 * with one click: [Standalone](https://swarmsim.github.io/#/cleartheme?themeExtra=@import url%28'https://test.swarmsim.com/swarm-graphics/graphics.css'%29;) , [Kongregate](https://www.swarmsim.com?kongregate=1/#/cleartheme?themeExtra=@import url%28'https://test.swarmsim.com/swarm-graphics/graphics.css'%29;)
-* or options > theme > `Additional styling (advanced)` > paste `@import url('https://test.swarmsim.com/swarm-graphics/graphics.css');`
+* or [options > theme > `Additional styling (advanced)`](http://i.imgur.com/cB5oMiH.png?1) > paste `@import url('https://test.swarmsim.com/swarm-graphics/graphics.css');`
 
 git will host your css files for free. steps:
 * create github account
