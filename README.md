@@ -8,13 +8,14 @@ view css: https://erosson.github.io/swarm-graphics/graphics.css
 after v1.0.37, to use custom styling:
 * with one click: [Standalone](https://swarmsim.github.io/#/cleartheme?themeExtra=@import url%28'https://test.swarmsim.com/swarm-graphics/graphics.css'%29;) , [Kongregate](https://www.swarmsim.com?kongregate=1/#/cleartheme?themeExtra=@import url%28'https://test.swarmsim.com/swarm-graphics/graphics.css'%29;)
 * or [options > theme > `Additional styling (advanced)`](http://i.imgur.com/cB5oMiH.png?1) > paste `@import url('https://test.swarmsim.com/swarm-graphics/graphics.css');`
+  * The CSS import must be _http**s**://_, not _http://_!
 
 git will host your css files for free. steps:
 * create github account
 * create a repository
 * switch to your repository's gh-pages branch: http://github.com/{{your-account-name}}/{{your-repository-name}}/tree/gh-pages
 * edit and commit your css file there. the "+" at the top adds a file.
-* go to http://{{your-account-name}}.github.io/{{your-repository-name}}/graphics.css
+* go to https://{{your-account-name}}.github.io/{{your-repository-name}}/graphics.css
 
 relevant css classes:
 
